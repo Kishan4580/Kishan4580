@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kishan Rajput 
+- 👀 I’m interested in creative projects 
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on innovative projects ideas
+- 📫 How to reach me : on LinkedIn platform or on this platform
+- 😄 Pronouns: He/him
