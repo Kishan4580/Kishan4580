@@ -44,13 +44,13 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 
 ## 🚀 Featured Projects
 
-### **quick-pay(https://github.com/Kishan4580/quick-pay)**
+### **[quick-pay](https://github.com/Kishan4580/quick-pay)**
 **Description**: This project uses a simulated UPI payment flow for learning purposes.
 - **Tech Stack**: React.js, Tailwind CSS, Node.js, MongoDB
 - **Key Features**: Payment Gateway Integration, e.g. RazorPay, Stripe, etc.,
 - **Live Demo**: [Link if available]
 
-### **LeaveFlow(https://github.com/ajaymeena9069/Smart-Leave-Permission-System)**
+### **[LeaveFlow](https://github.com/ajaymeena9069/Smart-Leave-Permission-System)**
 **Description**: A modern, full-stack application designed to streamline and automate the entire leave management process for educational institutions and corporate offices. 
 - **Tech Stack**: React.js, Tailwind CSS(Gird, flex layout), Express.js(REST Immplements), Node.js, MongoDB (Data Modelling, Schema)
   
