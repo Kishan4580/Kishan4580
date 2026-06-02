@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kishan Rajput
 
-> **Full-Stack Developer** | BCA Graduate | MERN Stack Enthusiast | Open to Opportunities
+> **Software Developer | Full-Stack Developer** | BCA Graduate | MERN Stack Developer
 
 ---
 
 ## 🎯 About Me
-I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack**. I love creating responsive, user-friendly web applications and staying updated with the latest web development trends. Currently seeking opportunities to contribute to innovative projects and grow my skills in a professional environment.
+I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack**. I love creating responsive, user-friendly web applications and staying updated with the latest web development trends. Currently I working on Mobillor to contribute to innovative projects and grow my skills in a professional environment.
 
-- 🎓 **Education**: BCA (graduating April-May 2026) - Information Technology
-- 💼 **Status**: Open to internships and junior developer positions
+- 🎓 **Education**: BCA (April-May 2026) - Information Technology
+- 💼 **Status**: Software Developer Intern at @Mobillor Pvt. Ltd.
 - 🌟 **Interests**: Creative problem-solving, building scalable web applications
 - 💬 **Pronouns**: He/him
 
@@ -19,19 +19,20 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 ### **Frontend**
 - React.js, HTML5, CSS3
 - Tailwind CSS, Bootstrap
-- Formik (Form Handling)
+- Redux-Toolkit, react-redux, Formik (Form Handling)
 - Responsive, Adaptive Design
 
 ### **Backend**
-- Node.js, Express.js
+- Node.js, Express.js, Nest.js(Learning), Node-RED(Industrial Automation)
 - RESTful APIs
 - Third-party APIs Integrations
 - Authentication & Authorization(JWT)
-- SQL
+- SQL, T-SQL
 
 ### **Database**
 - MongoDB
 - MYSQL
+- MS-SQL
 
 ### **Tools & Practices**
 - Git & GitHub Version Control
@@ -91,10 +92,9 @@ For a complete list of my projects, visit my [GitHub repositories](https://githu
 
 ## 🏆 Extra-Curricular Activities
 - Actively learning advanced web development frameworks and tools
-- Exploring cloud deployment and DevOps practices
+- Learning Nest.js
 - Contributing to open-source projects
-- Building portfolio projects for skill enhancement
-
+ 
 ---
 
 ## 📫 Let's Connect!
