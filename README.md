@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Kishan Rajput
 
-> **Software Developer | Full-Stack Developer** | BCA Graduate | MERN Stack Developer
+> **Software Developer**
 
 ---
 
 ## 🎯 About Me
-I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack**. I love creating responsive, user-friendly web applications and staying updated with the latest web development trends. Currently I working on Mobillor to contribute to innovative projects and grow my skills in a professional environment.
+I'm a passionate **Full-Stack Web Developer** at Mobillor Technologies Pvt. Ltd. with expertise in the **MERN Stack**. I love creating responsive, user-friendly web applications and staying updated with the latest web development trends. Currently I working on Mobillor to contribute to innovative projects and grow my skills in a professional environment.
 
 - 🎓 **Education**: BCA (April-May 2026) - Information Technology
 - 💼 **Status**: Software Developer Intern at @Mobillor Pvt. Ltd.
@@ -23,11 +23,12 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 - Responsive, Adaptive Design
 
 ### **Backend**
-- Node.js, Express.js, Nest.js(Learning), Node-RED(Industrial Automation)
+- Node.js, Express.js, Nest.js, Node-RED(Visual Low-Code Language)
 - RESTful APIs
 - Third-party APIs Integrations
 - Authentication & Authorization(JWT)
 - SQL, T-SQL
+- RabbitMQ (Message Broker)
 
 ### **Database**
 - MongoDB
@@ -37,19 +38,13 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 ### **Tools & Practices**
 - Git & GitHub Version Control
 - MongoDB Atlas
-- Agile Methodology
-- Design Patterns
+- Agile Methodology (Scrum)
+- Design Patterns (Abstract, Singleton, etc.)
 - Problem-Solving
 
 ---
 
 ## 🚀 Featured Projects
-
-### **[quick-pay](https://github.com/Kishan4580/quick-pay)**
-**Description**: This project uses a simulated UPI payment flow for learning purposes.
-- **Tech Stack**: React.js, Tailwind CSS, Node.js, MongoDB
-- **Key Features**: Payment Gateway Integration, e.g. RazorPay, Stripe, etc.,
-- **Live Demo**: [Link if available]
 
 ### **[LeaveFlow](https://github.com/ajaymeena9069/Smart-Leave-Permission-System)**
 **Description**: A modern, full-stack application designed to streamline and automate the entire leave management process for educational institutions and corporate offices. 
@@ -68,7 +63,6 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 - **Live Demo**: https://smart-leave-permission-system-by-la-kohl.vercel.app/
 
 
-
 ### **[Everglow](https://github.com/Kishan4580/Everglow)**
 **Description**: Brief description of what this project does
 - **Tech Stack**: HTML5, CSS3, JavaScript
@@ -76,6 +70,14 @@ I'm a passionate **Full-Stack Web Developer** with expertise in the **MERN Stack
 - Product Catalog & Best-Seller Section,
 - Backend With Real E-Commerce Logic,
 - Optimized Cart System
+
+
+### **[quick-pay](https://github.com/Kishan4580/quick-pay)**
+**Description**: This project uses a simulated UPI payment flow for learning purposes.
+- **Tech Stack**: React.js, Tailwind CSS, Node.js, MongoDB
+- **Key Features**: Payment Gateway Integration, e.g. RazorPay, Stripe, etc.,
+- **Live Demo**: [Not available]
+
 
 ---
 
